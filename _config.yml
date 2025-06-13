@@ -25,22 +25,15 @@ author:
   avatar           : "profile.png"
   name             : "Jing-Yuan Chen, DVM, PhD"
   pronouns         : "He/His"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "大江東去浪淘盡"
   location         : "Earth"
   employer         : "National Taiwan University"
   uri              : # URL
   email            : "jychen@ntu.edu.tw" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=cGiPX_IAAAAJ&hl=zh-TW"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  orcid            : "https://orcid.org/0000-0001-8021-2369"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
