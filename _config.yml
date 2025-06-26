@@ -7,6 +7,7 @@
 # server process.
 
 # Basic Site Settings
+remote_theme             : academicpages/academicpages.github.io
 locale                   : "en-US"
 site_theme               : "default"
 title                    : "Jing-Yuan Chen / DVM, PhD"
@@ -271,6 +272,7 @@ timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
